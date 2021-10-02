@@ -1,0 +1,23 @@
+{
+  "name": "mern-book-search-engine",
+  "version": "1.0.0",
+  "description": "UofO Week 21 homework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reidk361/mern-book-search-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^5.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/reidk361/mern-book-search-engine/issues"
+  },
+  "homepage": "https://github.com/reidk361/mern-book-search-engine#readme"
+}
